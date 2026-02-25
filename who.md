@@ -44,17 +44,19 @@ title: What is that guy's name
     * Josh
 
 * Get Your Sheet Together
-    * Todd 
-    * Colin (tall)
-    * Sheri
-    * Gaston
     * Chris Davis
+    * Colin Burton (tall)
+    * Sheri Burton
+    * Gaston Viau
+    * Bridget Robinson
+    * Todd - (Injury Reserve)
 
 * Button Pinchers
     * Victoria
     * Matt
     * Joanne
     * Vanessa
+    * Joe Fraser
 
 * Broom Goes the Dyanmite
     * Chris Theriault
